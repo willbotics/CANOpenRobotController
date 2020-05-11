@@ -4,7 +4,7 @@
  * \version 0.1
  * \date 2020-09-24
  * @copyright Copyright (c) 2020
- */
+ *
  * /brief The <code>ExoTestMachine</code> class represents an example implementation of an exoskeleton state machine 
  * with five states. Initialisation, sitting, standing, standing up and sitting down. The test machine
  * is made as example for developers to structure their specific use cases with. 
@@ -40,7 +40,7 @@
 #include "ExoTestState.h"
 #include "StateMachine.h"
 
- // State Classes
+// State Classes
 #include "InitState.h"
 #include "Sitting.h"
 #include "SittingDwn.h"
@@ -52,40 +52,40 @@
  * 
  */
 class ExoTestMachine : public StateMachine {
-    public:
-     bool running = false;
-     ExoTestMachine();
-     void init();
-     void activate();
-     void deactivate();
+   public:
+    bool running = false;
+    ExoTestMachine();
+    void init();
+    void activate();
+    void deactivate();
 
-     void hwStateUpdate();
-     State *gettCurState();
-     void initRobot(ExoRobot *rb);
-     bool trajComplete;
-     DummyTrajectoryGenerator *trajectoryGenerator;
+    void hwStateUpdate();
+    State *gettCurState();
+    void initRobot(ExoRobot *rb);
+    bool trajComplete;
+    DummyTrajectoryGenerator *trajectoryGenerator;
 
-     // Pointers to the relevant states - initialised in init
-     InitState *initState;
-     SittingDwn *sittingDwn;
-     StandingUp *standingUp;
-     Sitting *sitting;
-     Standing *standing;
+    // Pointers to the relevant states - initialised in init
+    InitState *initState;
+    SittingDwn *sittingDwn;
+    StandingUp *standingUp;
+    Sitting *sitting;
+    Standing *standing;
 
-    protected:
-     // Pointer to the Robot
-     ExoRobot *robot;
+   protected:
+    // Pointer to the Robot
+    ExoRobot *robot;
 
-    private:
-     // Event Objects defined using Macro defined in StateMachine.h
-     // Defines the Class itself, as well as initialises an object of that class
-     // An events check function are defined in the .cpp file.
-     EventObject(EndTraj) * endTraj;
-     EventObject(IsAPressed) * isAPressed;
-     EventObject(StartButtonsPressed) * startButtonsPressed;
-     EventObject(StartExo) * startExo;
-     EventObject(StartSit) * startSit;
-     EventObject(StartStand) * startStand;
- };
+   private:
+    // Event Objects defined using Macro defined in StateMachine.h
+    // Defines the Class itself, as well as initialises an object of that class
+    // An events check function are defined in the .cpp file.
+    EventObject(EndTraj) * endTraj;
+    EventObject(IsAPressed) * isAPressed;
+    EventObject(StartButtonsPressed) * startButtonsPressed;
+    EventObject(StartExo) * startExo;
+    EventObject(StartSit) * startSit;
+    EventObject(StartStand) * startStand;
+};
 
 #endif /*EXO_SM_H*/

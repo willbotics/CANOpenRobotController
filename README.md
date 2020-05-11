@@ -22,11 +22,11 @@ Workbench build environments for most platforms can be found [here](https://embe
 
 Clone the project from git repository(CANopenSocket used in robot homing sequence):
 
-    $ git clone https://github.com/capstonealex/exo.git
+    $ git clone https://github.com/Willcampbellmelb/CANOpenRobotController.git
 
 ### Build ExoTestMachine
 
-    $ cd /GitHub/exo/
+    $ cd <CANOpenRobotController_directory>
     $ make exe
 
 ### Transfer files to Linux platform

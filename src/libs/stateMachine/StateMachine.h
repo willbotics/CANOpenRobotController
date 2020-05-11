@@ -9,12 +9,11 @@
  */
 
 // Created by William Campbell on 2019-09-24.
-*
 #ifndef EXO_STATEMACHINE_H
 #define EXO_STATEMACHINE_H
-    //#include <cstddef>
+//#include <cstddef>
 
-    class State;
+class State;
 
 #include "State.h"
 /* Forward declarations*/
