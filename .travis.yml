@@ -4,6 +4,7 @@ sudo: false
 # Blacklist
 branches:
   only:
+    - master
 
 # Install dependencies
 addons:
