@@ -2,11 +2,6 @@
 
 CANOpen Robot Controller (CORC) is a free and open source robotic development software stack. The project has been under development at the University of Melbourne in partnership with Fourier Intelligence for use with their X2 exoskeleton. The software has been designed to be extensible to any embedded Linux and CANopen enabled Robotic platform.
 
----
-
-NOTE: This version of the software has only been tested virtually, further hardware testing is required.
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
-
 ## The CANOpen Robot Controller (CORC) project is made up of:
 
 - Extensible framework to represent most multibody robotic systems.
