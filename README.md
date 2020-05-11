@@ -1,25 +1,25 @@
-# RobotCANControl Project
+# CANOpen Robot Controller (CORC) Project
 
-RobotCANcontrol is a free and open source robotic development software stack. The project has been under development at the University of Melbourne in partnership with Fourier Intelligence for use with their X2 exoskeleton. The software has been designed to be extensible to any embeeded linux and CANopen enabled Robotic platform.
+CANOpen Robot Controller (CORC) is a free and open source robotic development software stack. The project has been under development at the University of Melbourne in partnership with Fourier Intelligence for use with their X2 exoskeleton. The software has been designed to be extensible to any embedded Linux and CANopen enabled Robotic platform.
 
 ---
 
 NOTE: This version of the software has only been tested virtually, further hardware testing is required.
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
-## The RobotCANcontrol project is made up of:
+## The CANOpen Robot Controller (CORC) project is made up of:
 
-- Extensible Framework to represent most multi body robotic systems.
-- Event driven State machine to develop custom applications for your Robot.
-- Implementation of [Canopen Socket](https://github.com/CANopenNode/CANopenSocket) to provide an interface between CAN enabled embedded linux system and Canopen configured motor drivers/sensors.
+- Extensible framework to represent most multibody robotic systems.
+- Event driven state machine to develop custom applications for your robot.
+- Implementation of [CANopen Socket](https://github.com/CANopenNode/CANopenSocket) to provide an interface between CAN enabled embedded Linux system and CANopen configured motor drivers/sensors.
 - Documentation
 - Fully functional application examples.
 
 ## Getting started with RobotCANControl
 
-We will be running through building and testing a simple test statemachine (ExoTestMachine.cpp), the source code can be found in the apps folder of the root directory.
+We will be running through building and testing a simple test state machine (ExoTestMachine.cpp), the source code can be found in the apps folder of the root directory.
 
-The current recommened and tested environemnt is Debian jesse 9.5 on a Beagle Bone black [Firmware](http://beagleboard.org/latest-images). Theoretically, we can build on other distros and linux platforms as well, but they have not been testd.
+The current recommended and tested environmen is Debian jesse 8.11 on a BeagleBone Black [Firmware](http://beagleboard.org/latest-images). Theoretically, we can build on other distros and Linux platforms as well, but they have not been testd.
 
 Workbench build environments for most platforms can be found [here](https://embeded.readthedocs.io/en/latest/workbench/)
 
@@ -36,17 +36,17 @@ Clone the project and CANopenSocket from git repository(CANopenSocket used in ro
 
 ### Transfer files to Linux platform
 
-- Download [FileZilla](https://filezilla-project.org/) and connect to Beagle bone.
+- Download [FileZilla](https://filezilla-project.org/) and connect to BeagleBone.
 
   > Username: debian
 
   > Password: temppwd
 
-  > Transfer executible and initRobot folders.
+  > Transfer executable and initRobot folders.
 
 ## Run Virtual ExoTestMachine
 
-- SSH into Beagle Bone ([tutorial](https://elinux.org/Beagleboard:Terminal_Shells)) or similar linux board, use same user and pswrd as above.
+- SSH into BeagleBone ([tutorial](https://elinux.org/Beagleboard:Terminal_Shells)) or similar Linux board, use the same user and password as above.
 - Initialize Virutal CAN device to bind to and run candump([candump manpage](https://manpages.debian.org/testing/can-utils/candump.1.en.html)) on the VCAN interface.
 
 ```bash
@@ -82,6 +82,7 @@ Follow terminal instructions using your keyboard to run through test stateMachin
 ```
 
 Notice that terminal one(candump) sends out messages coresponding with application movement commands as follows:
+Specifics of CAN messages can be found in the drive.h source files.
 
 ```bash
 vcan0  601   [8]  2F 60 60 00 01 00 00 00 #initi position control SDO
@@ -98,10 +99,10 @@ explain me -->
 
 ## Developer Information
 
-- Detailed Documentation: https://exoembedded.readthedocs.io/en/latest/
-- Source code documenrtation: https://capstonealex.github.io/exo/index.html
+- Detailed documentation: https://exoembedded.readthedocs.io/en/latest/
+- Source code documentation: https://capstonealex.github.io/exo/index.html
 - Project Repository: https://github.com/capstonealex/exo
-- CanOpen Socket: https://github.com/CANopenNode/CANopenSocket
+- CANopen Socket: https://github.com/CANopenNode/CANopenSocket
 
 ## License
 
