@@ -1,0 +1,5 @@
+<map id="src/libs/robot/Robot.h" name="src/libs/robot/Robot.h">
+<area shape="rect" id="node3" href="$InputDevice_8h.html" title="InputDevice.h" alt="" coords="207,80,317,107"/>
+<area shape="rect" id="node5" href="$Joint_8h.html" title="Joint.h" alt="" coords="341,80,402,107"/>
+<area shape="rect" id="node6" href="$TrajectoryGenerator_8h.html" title="Base class of Trajectory Generator. Will always be extended with specific implementations, and is relatively scarce, given the differences expected in the different trajectories. " alt="" coords="24,80,183,107"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="src/libs/robot/Robot.cpp" name="src/libs/robot/Robot.cpp">
+<area shape="rect" id="node2" href="$Robot_8h.html" title="Robot.h" alt="" coords="227,80,298,107"/>
+<area shape="rect" id="node8" href="$DebugMacro_8h.html" title="DebugMacro.h" alt="" coords="352,80,467,107"/>
+<area shape="rect" id="node4" href="$InputDevice_8h.html" title="InputDevice.h" alt="" coords="208,155,317,181"/>
+<area shape="rect" id="node6" href="$Joint_8h.html" title="Joint.h" alt="" coords="341,155,403,181"/>
+<area shape="rect" id="node7" href="$TrajectoryGenerator_8h.html" title="Base class of Trajectory Generator. Will always be extended with specific implementations, and is relatively scarce, given the differences expected in the different trajectories. " alt="" coords="25,155,183,181"/>
+</map>

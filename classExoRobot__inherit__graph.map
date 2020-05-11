@@ -1,0 +1,3 @@
+<map id="ExoRobot" name="ExoRobot">
+<area shape="rect" id="node2" href="$classRobot.html" title="Abstract Class representing a robot. Includes vectors of Joint and InputDevice. " alt="" coords="12,5,175,273"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="src/apps/DebugMacro.h" name="src/apps/DebugMacro.h">
+<area shape="rect" id="node2" href="$CopleyDrive_8cpp.html" title="src/apps/CopleyDrive.cpp" alt="" coords="5,87,188,114"/>
+<area shape="rect" id="node3" href="$DummyActJoint_8cpp.html" title="src/apps/DummyActJoint.cpp" alt="" coords="212,87,419,114"/>
+<area shape="rect" id="node4" href="$ExoRobot_8cpp.html" title="src/apps/ExoRobot.cpp" alt="" coords="443,87,609,114"/>
+<area shape="rect" id="node5" href="$ExoTestState_8h.html" title="src/apps/stateMachine\l/states/ExoTestState.h" alt="" coords="633,80,800,121"/>
+<area shape="rect" id="node22" href="$Drive_8cpp.html" title="src/libs/robot/Drive.cpp" alt="" coords="825,87,993,114"/>
+<area shape="rect" id="node23" href="$ActuatedJoint_8cpp.html" title="src/libs/robot/joint\l/ActuatedJoint.cpp" alt="" coords="1017,80,1155,121"/>
+<area shape="rect" id="node24" href="$Joint_8cpp.html" title="src/libs/robot/joint\l/Joint.cpp" alt="" coords="1180,80,1315,121"/>
+<area shape="rect" id="node25" href="$Robot_8cpp.html" title="Generic Abstract Robot class, which includes joints and a trajectory generator, to be used with a CAN..." alt="" coords="1339,87,1510,114"/>
+<area shape="rect" id="node26" href="$StateMachine_8cpp.html" title="src/libs/stateMachine\l/StateMachine.cpp" alt="" coords="1535,80,1691,121"/>
+<area shape="rect" id="node6" href="$ExoTestMachine_8h.html" title="src/apps/stateMachine\l/ExoTestMachine.h" alt="" coords="512,259,679,300"/>
+<area shape="rect" id="node11" href="$ExoTestState_8cpp.html" title="src/apps/stateMachine\l/states/ExoTestState.cpp" alt="" coords="1205,169,1385,211"/>
+<area shape="rect" id="node12" href="$InitState_8h.html" title="src/apps/stateMachine\l/states/InitState.h" alt="" coords="200,169,367,211"/>
+<area shape="rect" id="node14" href="$Sitting_8h.html" title="src/apps/stateMachine\l/states/Sitting.h" alt="" coords="391,169,557,211"/>
+<area shape="rect" id="node16" href="$SittingDwn_8h.html" title="src/apps/stateMachine\l/states/SittingDwn.h" alt="" coords="633,169,800,211"/>
+<area shape="rect" id="node18" href="$Standing_8h.html" title="src/apps/stateMachine\l/states/Standing.h" alt="" coords="824,169,991,211"/>
+<area shape="rect" id="node20" href="$StandingUp_8h.html" title="src/apps/stateMachine\l/states/StandingUp.h" alt="" coords="1015,169,1181,211"/>
+<area shape="rect" id="node7" href="$application_8h.html" title="src/apps/application.h" alt="" coords="421,355,583,382"/>
+<area shape="rect" id="node10" href="$ExoTestMachine_8cpp.html" title="src/apps/stateMachine\l/ExoTestMachine.cpp" alt="" coords="607,348,773,389"/>
+<area shape="rect" id="node8" href="$application_8cpp.html" title="src/apps/application.cpp" alt="" coords="333,437,509,464"/>
+<area shape="rect" id="node9" href="$main_8cpp.html" title="src/main.cpp" alt="" coords="533,437,637,464"/>
+<area shape="rect" id="node13" href="$InitState_8cpp.html" title="src/apps/stateMachine\l/states/InitState.cpp" alt="" coords="131,259,297,300"/>
+<area shape="rect" id="node15" href="$Sitting_8cpp.html" title="src/apps/stateMachine\l/states/Sitting.cpp" alt="" coords="321,259,488,300"/>
+<area shape="rect" id="node17" href="$SittingDwn_8cpp.html" title="src/apps/stateMachine\l/states/SittingDwn.cpp" alt="" coords="703,259,869,300"/>
+<area shape="rect" id="node19" href="$Standing_8cpp.html" title="src/apps/stateMachine\l/states/Standing.cpp" alt="" coords="893,259,1060,300"/>
+<area shape="rect" id="node21" href="$StandingUp_8cpp.html" title="src/apps/stateMachine\l/states/StandingUp.cpp" alt="" coords="1084,259,1256,300"/>
+</map>

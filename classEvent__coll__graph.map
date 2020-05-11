@@ -1,0 +1,5 @@
+<map id="Event" name="Event">
+<area shape="rect" id="node4" href="$classTransition.html" title="Represents possible transitions linking two State objects with an Event. " alt="" coords="61,175,168,267"/>
+<area shape="rect" id="node2" href="$classStateMachine.html" title="Abstract class representing a state machine. Includes a number of State and Transition objects..." alt="" coords="64,601,199,737"/>
+<area shape="rect" id="node3" href="$classState.html" title="Abstract class representing a state in a StateMachine. " alt="" coords="10,329,138,539"/>
+</map>

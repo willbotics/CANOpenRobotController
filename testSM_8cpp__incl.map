@@ -1,0 +1,15 @@
+<map id="src/tests/testSM.cpp" name="src/tests/testSM.cpp">
+<area shape="rect" id="node3" href="$ExoRobot_8h.html" title="ExoRobot.h" alt="" coords="402,80,495,107"/>
+<area shape="rect" id="node6" href="$CopleyDrive_8h.html" title="CopleyDrive.h" alt="" coords="196,155,307,181"/>
+<area shape="rect" id="node7" href="$DummyActJoint_8h.html" title="A dummy class to test whether the actuated joint inheritence stuff works. " alt="" coords="382,155,515,181"/>
+<area shape="rect" id="node16" href="$DummyTrajectoryGenerator_8h.html" title="A trajectory generator to be used for testing purposes. " alt="" coords="175,229,386,256"/>
+<area shape="rect" id="node19" href="$Keyboard_8h.html" title="Keyboard.h" alt="" coords="739,229,833,256"/>
+<area shape="rect" id="node23" href="$Robot_8h.html" title="Robot.h" alt="" coords="552,229,623,256"/>
+<area shape="rect" id="node24" href="$RobotParams_8h.html" title="RobotParams.h" alt="" coords="641,155,760,181"/>
+<area shape="rect" id="node8" href="$ActuatedJoint_8h.html" title="ActuatedJoint.h" alt="" coords="409,229,528,256"/>
+<area shape="rect" id="node9" href="$Drive_8h.html" title="Drive.h" alt="" coords="263,304,330,331"/>
+<area shape="rect" id="node14" href="$Joint_8h.html" title="Joint.h" alt="" coords="538,304,599,331"/>
+<area shape="rect" id="node10" href="$CO__command_8h.html" title="CO_command.h" alt="" coords="394,379,519,405"/>
+<area shape="rect" id="node18" href="$TrajectoryGenerator_8h.html" title="Base class of Trajectory Generator. Will always be extended with specific implementations, and is relatively scarce, given the differences expected in the different trajectories. " alt="" coords="355,304,513,331"/>
+<area shape="rect" id="node21" href="$InputDevice_8h.html" title="InputDevice.h" alt="" coords="674,304,783,331"/>
+</map>

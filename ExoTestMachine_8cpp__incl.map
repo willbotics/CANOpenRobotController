@@ -1,0 +1,27 @@
+<map id="src/apps/stateMachine/ExoTestMachine.cpp" name="src/apps/stateMachine/ExoTestMachine.cpp">
+<area shape="rect" id="node2" href="$ExoTestMachine_8h.html" title="ExoTestMachine.h" alt="" coords="730,95,865,121"/>
+<area shape="rect" id="node9" href="$ExoRobot_8h.html" title="ExoRobot.h" alt="" coords="560,319,653,345"/>
+<area shape="rect" id="node30" href="$ExoTestState_8h.html" title="ExoTestState.h" alt="" coords="975,244,1092,271"/>
+<area shape="rect" id="node34" href="$StateMachine_8h.html" title="StateMachine.h" alt="" coords="1437,543,1560,569"/>
+<area shape="rect" id="node37" href="$InitState_8h.html" title="InitState.h" alt="" coords="989,169,1077,196"/>
+<area shape="rect" id="node38" href="$Sitting_8h.html" title="Sitting.h" alt="" coords="1229,169,1304,196"/>
+<area shape="rect" id="node39" href="$SittingDwn_8h.html" title="SittingDwn.h" alt="" coords="1102,169,1205,196"/>
+<area shape="rect" id="node40" href="$Standing_8h.html" title="Standing.h" alt="" coords="691,169,781,196"/>
+<area shape="rect" id="node41" href="$StandingUp_8h.html" title="StandingUp.h" alt="" coords="805,169,915,196"/>
+<area shape="rect" id="node12" href="$CopleyDrive_8h.html" title="CopleyDrive.h" alt="" coords="442,393,553,420"/>
+<area shape="rect" id="node13" href="$DummyActJoint_8h.html" title="A dummy class to test whether the actuated joint inheritence stuff works. " alt="" coords="577,393,711,420"/>
+<area shape="rect" id="node22" href="$DummyTrajectoryGenerator_8h.html" title="A trajectory generator to be used for testing purposes. " alt="" coords="785,393,996,420"/>
+<area shape="rect" id="node24" href="$Keyboard_8h.html" title="Keyboard.h" alt="" coords="121,468,215,495"/>
+<area shape="rect" id="node28" href="$Robot_8h.html" title="Robot.h" alt="" coords="717,468,787,495"/>
+<area shape="rect" id="node29" href="$RobotParams_8h.html" title="RobotParams.h" alt="" coords="299,393,418,420"/>
+<area shape="rect" id="node14" href="$ActuatedJoint_8h.html" title="ActuatedJoint.h" alt="" coords="487,468,606,495"/>
+<area shape="rect" id="node15" href="$Drive_8h.html" title="Drive.h" alt="" coords="469,543,536,569"/>
+<area shape="rect" id="node21" href="$Joint_8h.html" title="Joint.h" alt="" coords="744,543,805,569"/>
+<area shape="rect" id="node17" href="$CO__command_8h.html" title="CO_command.h" alt="" coords="625,617,751,644"/>
+<area shape="rect" id="node23" href="$TrajectoryGenerator_8h.html" title="Base class of Trajectory Generator. Will always be extended with specific implementations, and is relatively scarce, given the differences expected in the different trajectories. " alt="" coords="830,543,989,569"/>
+<area shape="rect" id="node26" href="$InputDevice_8h.html" title="InputDevice.h" alt="" coords="611,543,720,569"/>
+<area shape="rect" id="node31" href="$DebugMacro_8h.html" title="DebugMacro.h" alt="" coords="1172,319,1287,345"/>
+<area shape="rect" id="node32" href="$State_8h.html" title="State.h" alt="" coords="1367,319,1436,345"/>
+<area shape="rect" id="node35" href="$Transition_8h.html" title="Transition.h" alt="" coords="1354,393,1449,420"/>
+<area shape="rect" id="node36" href="$Event_8h.html" title="Event.h" alt="" coords="1327,468,1398,495"/>
+</map>

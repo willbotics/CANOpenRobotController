@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classDrive.html" title="Abstract class describing a Drive used to communicate with a CANbus device. Note that many functions ..." alt="" coords="5,5,60,32"/>
+<area shape="rect" id="node2" href="$classCopleyDrive.html" title="An implementation of the Drive Object, specifically for Copley&#45;branded devices (currently used on the..." alt="" coords="108,5,207,32"/>
+</map>

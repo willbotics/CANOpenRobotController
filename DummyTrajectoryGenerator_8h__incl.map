@@ -1,0 +1,3 @@
+<map id="src/apps/DummyTrajectoryGenerator.h" name="src/apps/DummyTrajectoryGenerator.h">
+<area shape="rect" id="node3" href="$TrajectoryGenerator_8h.html" title="Base class of Trajectory Generator. Will always be extended with specific implementations, and is relatively scarce, given the differences expected in the different trajectories. " alt="" coords="92,95,251,121"/>
+</map>

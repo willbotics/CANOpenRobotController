@@ -1,0 +1,8 @@
+<map id="State" name="State">
+<area shape="rect" id="node2" href="$classExoTestState.html" title="Example Implementation of State Class. Used with ExoTestMachine. " alt="" coords="219,292,381,428"/>
+<area shape="rect" id="node3" href="$classInitState.html" title="Initialisation State for the ExoTestMachine (implementing ExoTestState) " alt="" coords="5,476,107,597"/>
+<area shape="rect" id="node4" href="$classSitting.html" title="State for the ExoTestMachine (implementing ExoTestState) &#45; representing when the exoskeleton is sitti..." alt="" coords="131,476,219,597"/>
+<area shape="rect" id="node5" href="$classSittingDwn.html" title="{SittingDwn\n||+ entry()\l+ during()\l+ exit()\l+ SittingDwn()\l}" alt="" coords="243,476,357,597"/>
+<area shape="rect" id="node6" href="$classStanding.html" title="State for the ExoTestMachine (implementing ExoTestState) &#45; representing when the exoskeleton is stand..." alt="" coords="381,476,485,597"/>
+<area shape="rect" id="node7" href="$classStandingUp.html" title="State for the ExoTestMachine (implementing ExoTestState) &#45; representing when the exo is standing up (..." alt="" coords="509,476,632,597"/>
+</map>

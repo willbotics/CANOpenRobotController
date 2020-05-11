@@ -1,0 +1,15 @@
+<map id="StandingUp" name="StandingUp">
+<area shape="rect" id="node2" href="$classExoTestState.html" title="Example Implementation of State Class. Used with ExoTestMachine. " alt="" coords="351,1097,481,1218"/>
+<area shape="rect" id="node3" href="$classState.html" title="Abstract class representing a state in a StateMachine. " alt="" coords="521,773,649,983"/>
+<area shape="rect" id="node4" href="$classStateMachine.html" title="Abstract class representing a state machine. Includes a number of State and Transition objects..." alt="" coords="581,1089,715,1225"/>
+<area shape="rect" id="node5" href="$classTransition.html" title="Represents possible transitions linking two State objects with an Event. " alt="" coords="595,1472,701,1564"/>
+<area shape="rect" id="node6" href="$classEvent.html" title="Abstract class for events used as StateMachine triggers to transition between states. Events must be explicitly tied to a current State and state to transition to once the event has been triggered. This is done using a Transition object in a designed StateMachine. " alt="" coords="595,1295,701,1402"/>
+<area shape="rect" id="node7" href="$classExoRobot.html" title="Example implementation of the Robot class, representing an X2 Exoskeleton, using DummyActuatedJoint a..." alt="" coords="335,729,497,1027"/>
+<area shape="rect" id="node8" href="$classRobot.html" title="Abstract Class representing a robot. Includes vectors of Joint and InputDevice. " alt="" coords="359,233,510,487"/>
+<area shape="rect" id="node9" href="$classTrajectoryGenerator.html" title="Abstract class which is used to generate trajectorys for a Robot to follow. " alt="" coords="124,27,297,134"/>
+<area shape="rect" id="node14" href="$classDummyTrajectoryGenerator.html" title="Example Implementation of TrajectoryGenerator. Includes only two trajectories (Sit&#45;to&#45;Stand and Stand..." alt="" coords="5,511,229,705"/>
+<area shape="rect" id="node10" href="$classKeyboard.html" title="Example InputDevice which takes input in from a keyboard. Useful for testing without any other input ..." alt="" coords="535,233,703,487"/>
+<area shape="rect" id="node11" href="$classInputDevice.html" title="Abstract class representing any input device to be used in a Robot object. " alt="" coords="626,35,750,127"/>
+<area shape="rect" id="node12" href="$structkeys.html" title="Struct listing the Keys which exist on a Keyboard. " alt="" coords="523,5,573,156"/>
+<area shape="rect" id="node13" href="$structmotorProfile.html" title="struct to hold desired velocity, acceleration and deceleration values for a drives motor controller p..." alt="" coords="177,307,335,413"/>
+</map>

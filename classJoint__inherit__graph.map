@@ -1,0 +1,4 @@
+<map id="Joint" name="Joint">
+<area shape="rect" id="node2" href="$classActuatedJoint.html" title="Abstract class representing an actuated joint in a Robot Class (extending joint). Requires a Drive ob..." alt="" coords="5,277,160,487"/>
+<area shape="rect" id="node3" href="$classDummyActJoint.html" title="Example implementation of the ActuatedJoints class. " alt="" coords="9,535,156,700"/>
+</map>

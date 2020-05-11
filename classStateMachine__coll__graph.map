@@ -1,0 +1,5 @@
+<map id="StateMachine" name="StateMachine">
+<area shape="rect" id="node2" href="$classState.html" title="Abstract class representing a state in a StateMachine. " alt="" coords="5,204,133,413"/>
+<area shape="rect" id="node4" href="$classEvent.html" title="Abstract class for events used as StateMachine triggers to transition between states. Events must be explicitly tied to a current State and state to transition to once the event has been triggered. This is done using a Transition object in a designed StateMachine. " alt="" coords="167,255,273,362"/>
+<area shape="rect" id="node3" href="$classTransition.html" title="Represents possible transitions linking two State objects with an Event. " alt="" coords="88,476,195,568"/>
+</map>

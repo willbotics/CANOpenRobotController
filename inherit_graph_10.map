@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classState.html" title="Abstract class representing a state in a StateMachine. " alt="" coords="5,107,63,133"/>
+<area shape="rect" id="node2" href="$classExoTestState.html" title="Example Implementation of State Class. Used with ExoTestMachine. " alt="" coords="111,107,216,133"/>
+<area shape="rect" id="node3" href="$classInitState.html" title="Initialisation State for the ExoTestMachine (implementing ExoTestState) " alt="" coords="275,5,351,32"/>
+<area shape="rect" id="node4" href="$classSitting.html" title="State for the ExoTestMachine (implementing ExoTestState) &#45; representing when the exoskeleton is sitti..." alt="" coords="281,56,344,83"/>
+<area shape="rect" id="node5" href="$classSittingDwn.html" title="SittingDwn" alt="" coords="267,107,358,133"/>
+<area shape="rect" id="node6" href="$classStanding.html" title="State for the ExoTestMachine (implementing ExoTestState) &#45; representing when the exoskeleton is stand..." alt="" coords="273,157,352,184"/>
+<area shape="rect" id="node7" href="$classStandingUp.html" title="State for the ExoTestMachine (implementing ExoTestState) &#45; representing when the exo is standing up (..." alt="" coords="264,208,361,235"/>
+</map>

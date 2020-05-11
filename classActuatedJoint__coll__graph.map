@@ -1,0 +1,4 @@
+<map id="ActuatedJoint" name="ActuatedJoint">
+<area shape="rect" id="node2" href="$classJoint.html" title="Abstract class representing any joints within a Robot. " alt="" coords="5,64,132,288"/>
+<area shape="rect" id="node3" href="$classDrive.html" title="Abstract class describing a Drive used to communicate with a CANbus device. Note that many functions ..." alt="" coords="157,5,399,347"/>
+</map>

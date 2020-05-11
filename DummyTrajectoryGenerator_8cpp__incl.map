@@ -1,0 +1,4 @@
+<map id="src/apps/DummyTrajectoryGenerator.cpp" name="src/apps/DummyTrajectoryGenerator.cpp">
+<area shape="rect" id="node2" href="$DummyTrajectoryGenerator_8h.html" title="A trajectory generator to be used for testing purposes. " alt="" coords="5,95,216,121"/>
+<area shape="rect" id="node4" href="$TrajectoryGenerator_8h.html" title="Base class of Trajectory Generator. Will always be extended with specific implementations, and is relatively scarce, given the differences expected in the different trajectories. " alt="" coords="99,169,258,196"/>
+</map>

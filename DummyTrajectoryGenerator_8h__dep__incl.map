@@ -1,0 +1,25 @@
+<map id="src/apps/DummyTrajectoryGenerator.h" name="src/apps/DummyTrajectoryGenerator.h">
+<area shape="rect" id="node2" href="$DummyTrajectoryGenerator_8cpp.html" title="src/apps/DummyTrajectory\lGenerator.cpp" alt="" coords="603,95,795,136"/>
+<area shape="rect" id="node3" href="$ExoRobot_8h.html" title="src/apps/ExoRobot.h" alt="" coords="1003,102,1153,129"/>
+<area shape="rect" id="node10" href="$ExoTestState_8h.html" title="src/apps/stateMachine\l/states/ExoTestState.h" alt="" coords="528,184,695,225"/>
+<area shape="rect" id="node4" href="$application_8h.html" title="src/apps/application.h" alt="" coords="1095,459,1256,486"/>
+<area shape="rect" id="node7" href="$ExoRobot_8cpp.html" title="src/apps/ExoRobot.cpp" alt="" coords="1371,191,1537,218"/>
+<area shape="rect" id="node8" href="$ExoTestMachine_8h.html" title="src/apps/stateMachine\l/ExoTestMachine.h" alt="" coords="747,363,913,404"/>
+<area shape="rect" id="node22" href="$testRobot_8cpp.html" title="src/tests/testRobot.cpp" alt="" coords="719,191,888,218"/>
+<area shape="rect" id="node23" href="$testSM_8cpp.html" title="Test for the statemachine class and associated classes: state, event and transition. " alt="" coords="912,191,1065,218"/>
+<area shape="rect" id="node24" href="$testTraj_8cpp.html" title="src/tests/testTraj.cpp" alt="" coords="1090,191,1245,218"/>
+<area shape="rect" id="node5" href="$application_8cpp.html" title="src/apps/application.cpp" alt="" coords="1006,541,1182,568"/>
+<area shape="rect" id="node6" href="$main_8cpp.html" title="src/main.cpp" alt="" coords="1206,541,1310,568"/>
+<area shape="rect" id="node9" href="$ExoTestMachine_8cpp.html" title="src/apps/stateMachine\l/ExoTestMachine.cpp" alt="" coords="747,452,913,493"/>
+<area shape="rect" id="node11" href="$ExoTestState_8cpp.html" title="src/apps/stateMachine\l/states/ExoTestState.cpp" alt="" coords="5,273,185,315"/>
+<area shape="rect" id="node12" href="$InitState_8h.html" title="src/apps/stateMachine\l/states/InitState.h" alt="" coords="209,273,376,315"/>
+<area shape="rect" id="node14" href="$Sitting_8h.html" title="src/apps/stateMachine\l/states/Sitting.h" alt="" coords="591,273,757,315"/>
+<area shape="rect" id="node16" href="$SittingDwn_8h.html" title="src/apps/stateMachine\l/states/SittingDwn.h" alt="" coords="833,273,1000,315"/>
+<area shape="rect" id="node18" href="$Standing_8h.html" title="src/apps/stateMachine\l/states/Standing.h" alt="" coords="1024,273,1191,315"/>
+<area shape="rect" id="node20" href="$StandingUp_8h.html" title="src/apps/stateMachine\l/states/StandingUp.h" alt="" coords="400,273,567,315"/>
+<area shape="rect" id="node13" href="$InitState_8cpp.html" title="src/apps/stateMachine\l/states/InitState.cpp" alt="" coords="169,363,336,404"/>
+<area shape="rect" id="node15" href="$Sitting_8cpp.html" title="src/apps/stateMachine\l/states/Sitting.cpp" alt="" coords="556,363,723,404"/>
+<area shape="rect" id="node17" href="$SittingDwn_8cpp.html" title="src/apps/stateMachine\l/states/SittingDwn.cpp" alt="" coords="937,363,1104,404"/>
+<area shape="rect" id="node19" href="$Standing_8cpp.html" title="src/apps/stateMachine\l/states/Standing.cpp" alt="" coords="1128,363,1295,404"/>
+<area shape="rect" id="node21" href="$StandingUp_8cpp.html" title="src/apps/stateMachine\l/states/StandingUp.cpp" alt="" coords="360,363,532,404"/>
+</map>

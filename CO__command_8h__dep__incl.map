@@ -1,0 +1,34 @@
+<map id="src/libs/CANcomms/CO_command.h" name="src/libs/CANcomms/CO_command.h">
+<area shape="rect" id="node2" href="$application_8h.html" title="src/apps/application.h" alt="" coords="94,713,255,739"/>
+<area shape="rect" id="node5" href="$CO__command_8c.html" title="src/libs/CANcomms/CO\l_command.c" alt="" coords="494,95,663,136"/>
+<area shape="rect" id="node6" href="$Drive_8h.html" title="src/libs/robot/Drive.h" alt="" coords="317,102,470,129"/>
+<area shape="rect" id="node3" href="$application_8cpp.html" title="src/apps/application.cpp" alt="" coords="5,795,181,821"/>
+<area shape="rect" id="node4" href="$main_8cpp.html" title="src/main.cpp" alt="" coords="205,795,309,821"/>
+<area shape="rect" id="node7" href="$Drive_8cpp.html" title="src/libs/robot/Drive.cpp" alt="" coords="212,191,380,218"/>
+<area shape="rect" id="node8" href="$ActuatedJoint_8h.html" title="src/libs/robot/joint\l/ActuatedJoint.h" alt="" coords="779,184,914,225"/>
+<area shape="rect" id="node30" href="$testJoints_8cpp.html" title="Tests for the Joint, ActuatedJoint, ExoJoint and Drive classes. " alt="" coords="563,363,730,389"/>
+<area shape="rect" id="node32" href="$testDrives_8cpp.html" title="A script to test the functionality of the Drive Objects. " alt="" coords="404,191,577,218"/>
+<area shape="rect" id="node33" href="$testOD_8cpp.html" title="src/tests/testOD.cpp" alt="" coords="602,191,755,218"/>
+<area shape="rect" id="node9" href="$DummyActJoint_8h.html" title="A dummy class to test whether the actuated joint inheritence stuff works. " alt="" coords="762,281,953,307"/>
+<area shape="rect" id="node31" href="$ActuatedJoint_8cpp.html" title="src/libs/robot/joint\l/ActuatedJoint.cpp" alt="" coords="548,273,687,315"/>
+<area shape="rect" id="node10" href="$DummyActJoint_8cpp.html" title="src/apps/DummyActJoint.cpp" alt="" coords="754,363,961,389"/>
+<area shape="rect" id="node11" href="$ExoRobot_8h.html" title="src/apps/ExoRobot.h" alt="" coords="985,363,1135,389"/>
+<area shape="rect" id="node12" href="$ExoRobot_8cpp.html" title="src/apps/ExoRobot.cpp" alt="" coords="785,445,951,471"/>
+<area shape="rect" id="node13" href="$ExoTestMachine_8h.html" title="src/apps/stateMachine\l/ExoTestMachine.h" alt="" coords="785,616,951,657"/>
+<area shape="rect" id="node15" href="$ExoTestState_8h.html" title="src/apps/stateMachine\l/states/ExoTestState.h" alt="" coords="594,437,761,479"/>
+<area shape="rect" id="node27" href="$testRobot_8cpp.html" title="src/tests/testRobot.cpp" alt="" coords="975,445,1145,471"/>
+<area shape="rect" id="node28" href="$testSM_8cpp.html" title="Test for the statemachine class and associated classes: state, event and transition. " alt="" coords="1169,445,1322,471"/>
+<area shape="rect" id="node29" href="$testTraj_8cpp.html" title="src/tests/testTraj.cpp" alt="" coords="1347,445,1501,471"/>
+<area shape="rect" id="node14" href="$ExoTestMachine_8cpp.html" title="src/apps/stateMachine\l/ExoTestMachine.cpp" alt="" coords="785,705,951,747"/>
+<area shape="rect" id="node16" href="$ExoTestState_8cpp.html" title="src/apps/stateMachine\l/states/ExoTestState.cpp" alt="" coords="837,527,1017,568"/>
+<area shape="rect" id="node17" href="$InitState_8h.html" title="src/apps/stateMachine\l/states/InitState.h" alt="" coords="1231,527,1398,568"/>
+<area shape="rect" id="node19" href="$Sitting_8h.html" title="src/apps/stateMachine\l/states/Sitting.h" alt="" coords="213,527,379,568"/>
+<area shape="rect" id="node21" href="$SittingDwn_8h.html" title="src/apps/stateMachine\l/states/SittingDwn.h" alt="" coords="403,527,570,568"/>
+<area shape="rect" id="node23" href="$Standing_8h.html" title="src/apps/stateMachine\l/states/Standing.h" alt="" coords="594,527,761,568"/>
+<area shape="rect" id="node25" href="$StandingUp_8h.html" title="src/apps/stateMachine\l/states/StandingUp.h" alt="" coords="1041,527,1207,568"/>
+<area shape="rect" id="node18" href="$InitState_8cpp.html" title="src/apps/stateMachine\l/states/InitState.cpp" alt="" coords="1233,616,1399,657"/>
+<area shape="rect" id="node20" href="$Sitting_8cpp.html" title="src/apps/stateMachine\l/states/Sitting.cpp" alt="" coords="213,616,379,657"/>
+<area shape="rect" id="node22" href="$SittingDwn_8cpp.html" title="src/apps/stateMachine\l/states/SittingDwn.cpp" alt="" coords="403,616,570,657"/>
+<area shape="rect" id="node24" href="$Standing_8cpp.html" title="src/apps/stateMachine\l/states/Standing.cpp" alt="" coords="594,616,761,657"/>
+<area shape="rect" id="node26" href="$StandingUp_8cpp.html" title="src/apps/stateMachine\l/states/StandingUp.cpp" alt="" coords="1037,616,1209,657"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="src/main.cpp" name="src/main.cpp">
+<area shape="rect" id="node2" href="$application_8h.html" title="application.h" alt="" coords="1071,80,1173,107"/>
+<area shape="rect" id="node22" href="$CO__command_8h.html" title="CO_command.h" alt="" coords="2318,155,2443,181"/>
+<area shape="rect" id="node23" href="$CO__time_8h.html" title="CO_time.h" alt="" coords="2468,155,2557,181"/>
+<area shape="rect" id="node26" href="$ExoRobot_8h.html" title="ExoRobot.h" alt="" coords="1334,379,1427,405"/>
+<area shape="rect" id="node40" href="$ExoTestMachine_8h.html" title="ExoTestMachine.h" alt="" coords="1368,155,1503,181"/>
+<area shape="rect" id="node29" href="$CopleyDrive_8h.html" title="CopleyDrive.h" alt="" coords="1431,453,1541,480"/>
+<area shape="rect" id="node30" href="$DummyActJoint_8h.html" title="A dummy class to test whether the actuated joint inheritence stuff works. " alt="" coords="1054,453,1187,480"/>
+<area shape="rect" id="node32" href="$DummyTrajectoryGenerator_8h.html" title="A trajectory generator to be used for testing purposes. " alt="" coords="819,453,1030,480"/>
+<area shape="rect" id="node35" href="$Keyboard_8h.html" title="Keyboard.h" alt="" coords="1661,453,1754,480"/>
+<area shape="rect" id="node38" href="$Robot_8h.html" title="Robot.h" alt="" coords="1565,453,1636,480"/>
+<area shape="rect" id="node39" href="$RobotParams_8h.html" title="RobotParams.h" alt="" coords="1212,453,1331,480"/>
+<area shape="rect" id="node31" href="$ActuatedJoint_8h.html" title="ActuatedJoint.h" alt="" coords="1061,528,1180,555"/>
+<area shape="rect" id="node34" href="$TrajectoryGenerator_8h.html" title="Base class of Trajectory Generator. Will always be extended with specific implementations, and is relatively scarce, given the differences expected in the different trajectories. " alt="" coords="861,528,1020,555"/>
+<area shape="rect" id="node36" href="$InputDevice_8h.html" title="InputDevice.h" alt="" coords="1546,528,1655,555"/>
+<area shape="rect" id="node44" href="$ExoTestState_8h.html" title="ExoTestState.h" alt="" coords="1186,304,1303,331"/>
+<area shape="rect" id="node45" href="$StateMachine_8h.html" title="StateMachine.h" alt="" coords="1119,229,1242,256"/>
+<area shape="rect" id="node46" href="$InitState_8h.html" title="InitState.h" alt="" coords="1565,229,1653,256"/>
+<area shape="rect" id="node47" href="$Sitting_8h.html" title="Sitting.h" alt="" coords="635,229,710,256"/>
+<area shape="rect" id="node48" href="$SittingDwn_8h.html" title="SittingDwn.h" alt="" coords="735,229,837,256"/>
+<area shape="rect" id="node49" href="$Standing_8h.html" title="Standing.h" alt="" coords="1266,229,1357,256"/>
+<area shape="rect" id="node50" href="$StandingUp_8h.html" title="StandingUp.h" alt="" coords="1381,229,1490,256"/>
+</map>
