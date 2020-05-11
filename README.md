@@ -1,8 +1,8 @@
 # CANOpen Robot Controller (CORC) Project
 
-CANOpen Robot Controller (CORC) is a free and open source robotic development software stack. The project has been under development at the University of Melbourne in partnership with Fourier Intelligence for use with their X2 exoskeleton. The software has been designed to be extensible to any embedded Linux and CANopen enabled Robotic platform.
+CORC is a free and open source robotic development software stack. The project has been under development at the University of Melbourne in partnership with Fourier Intelligence for use with their X2 exoskeleton. The software has been designed to be extensible to any embedded Linux and CANopen enabled Robotic platform.
 
-## The CANOpen Robot Controller (CORC) project is made up of:
+## The CANOpen Robot Controller project is made up of:
 
 - Extensible framework to represent most multibody robotic systems.
 - Event driven state machine to develop custom applications for your robot.
@@ -10,7 +10,7 @@ CANOpen Robot Controller (CORC) is a free and open source robotic development so
 - Documentation
 - Fully functional application examples.
 
-## Getting started with RobotCANControl
+## Getting started with CORC
 
 We will be running through building and testing a simple test state machine (ExoTestMachine.cpp), the source code can be found in the apps folder of the root directory.
 
@@ -20,7 +20,7 @@ Workbench build environments for most platforms can be found [here](https://embe
 
 ### How to get the Project
 
-Clone the project and CANopenSocket from git repository(CANopenSocket used in robot homing sequence):
+Clone the project from git repository(CANopenSocket used in robot homing sequence):
 
     $ git clone https://github.com/capstonealex/exo.git
 
